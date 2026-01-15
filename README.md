@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tataagataa
-- 👀 I’m interested in Cloud technologies
+- 👋 Hi, I’m Thamar
+- 👀 I’m interested in cloud technologies
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me ...
